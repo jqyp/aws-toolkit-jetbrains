@@ -352,4 +352,3 @@ dependencies {
     ktlint "com.pinterest:ktlint:$ktlintVersion"
     ktlint project(":ktlint-rules")
 }
-
